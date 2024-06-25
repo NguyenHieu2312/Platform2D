@@ -1,0 +1,4 @@
+repository "PLatform2D@NguyenHieu2312@cloud"
+  path "/"
+    br "/main"
+    co "/main"

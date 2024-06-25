@@ -8,15 +8,15 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Wall
+  - Ground
+  - AttackLayer
+  - DeadLine
+  - CheckPoint
+  - Player
   - 
   - 
   - 
@@ -44,6 +44,12 @@ TagManager:
   - name: Layer-0
     uniqueID: 2853045413
     locked: 0
-  - name: Layer -1
+  - name: Layer-1
     uniqueID: 2771003713
+    locked: 0
+  - name: Layer-2
+    uniqueID: 2790665497
+    locked: 0
+  - name: Layer-3
+    uniqueID: 2240248779
     locked: 0
